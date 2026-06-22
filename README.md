@@ -1,2 +1,3 @@
 # ESP32_Laser_Tag
-Arduino program for laser tag system
+Arduino program for laser tag system using the ESP32 micro contorller.
+
